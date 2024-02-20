@@ -1,4 +1,4 @@
-# build_files.sh
+#build_files.sh
 #which python3.9
 pwd
 cd /usr/local/bin/
