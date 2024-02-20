@@ -3,7 +3,7 @@
 pwd
 cd /usr/local/bin/
 yum install sqlite-devel -y
-pip install sqlite3
+#pip install sqlite3
 ./configure --enable-optimizations --enable-loadable-sqlite-extensions
 make && make altinstall
 cd /vercel/path0/
